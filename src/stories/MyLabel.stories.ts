@@ -1,6 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react-vite"
 import { MyLabel } from "../components/MyLabel"
-import { Secondary } from "./Button.stories"
 
 const meta = {
   title: "UI/labels/MyLabel",
